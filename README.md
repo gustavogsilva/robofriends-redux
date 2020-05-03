@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React + Redux
+A simple panel of robot cards designed to practice react and redux.
 
 To run the project:
 
